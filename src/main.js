@@ -27,5 +27,5 @@ define(function(require) {
         transform: Transform.translate(0, 0, 0)
       });
       mainContext.add(mod).add(surface);
-    }, 1000);
+    }, 250);
 });
