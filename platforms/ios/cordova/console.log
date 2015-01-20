@@ -1,0 +1,34 @@
+2015-01-20 19:49:42.244 WKWebView-crash[35447:2812451] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hein/Library/Developer/CoreSimulator/Devices/2047D196-496F-4F3C-9CCE-3A17881B7DEA/data/Containers/Data/Application/0294F554-7D12-45E0-81D6-E3EE3DE8E612/Library/Cookies/Cookies.binarycookies
+2015-01-20 19:49:42.539 WKWebView-crash[35447:2812451] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-20 19:49:42.540 WKWebView-crash[35447:2812451] Multi-tasking -> Device: YES, App: YES
+2015-01-20 19:49:42.559 WKWebView-crash[35447:2812451] Unlimited access to network resources
+2015-01-20 19:49:42.564 WKWebView-crash[35447:2812451] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-20 19:49:42.935 WKWebView-crash[35447:2812451] Using a WKWebView
+2015-01-20 19:49:43.510 WKWebView-crash[35447:2812451] Started http daemon: http://192.168.1.11:12344/ 
+2015-01-20 19:49:44.645 WKWebView-crash[35447:2812451] <CATransformLayer: 0x796aee90> - changing property opaque in transform-only layer, will have no effect
+2015-01-20 19:49:44.751 WKWebView-crash[35447:2812451] <CATransformLayer: 0x7b16c070> - changing property opaque in transform-only layer, will have no effect
+Received an invalid message "RemoteLayerTreeDrawingAreaProxy.CommitLayerTree" from the web process.
+2015-01-20 19:50:33.672 WKWebView-crash[35579:2813565] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hein/Library/Developer/CoreSimulator/Devices/2047D196-496F-4F3C-9CCE-3A17881B7DEA/data/Containers/Data/Application/04DC4CE6-E270-4267-90D5-A1EC6B5B4E3D/Library/Cookies/Cookies.binarycookies
+2015-01-20 19:50:33.757 WKWebView-crash[35579:2813565] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-20 19:50:33.758 WKWebView-crash[35579:2813565] Multi-tasking -> Device: YES, App: YES
+2015-01-20 19:50:33.759 WKWebView-crash[35579:2813565] Unlimited access to network resources
+2015-01-20 19:50:33.761 WKWebView-crash[35579:2813565] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-20 19:50:33.982 WKWebView-crash[35579:2813565] Using a WKWebView
+2015-01-20 19:50:34.198 WKWebView-crash[35579:2813565] Started http daemon: http://192.168.1.11:12344/ 
+2015-01-20 19:50:35.739 WKWebView-crash[35579:2813565] <CATransformLayer: 0x7a790d00> - changing property opaque in transform-only layer, will have no effect
+2015-01-20 19:50:36.765 WKWebView-crash[35579:2813565] <CATransformLayer: 0x7a7912f0> - changing property opaque in transform-only layer, will have no effect
+Received an invalid message "RemoteLayerTreeDrawingAreaProxy.CommitLayerTree" from the web process.
